@@ -1,0 +1,84 @@
+To ensure our messages are delivered properly to your inbox (not bulk or junk folders),add email@us.email.onemainfinancial.com to your Address Book or Safe List.
+
+*********************
+
+You're pre-selected for up to {CAR_OfferAmount}.
+
+Customer Appreciation Days are back for a limited time. Apply for a personal loan today and enjoy No Payments Until January 2015.(1)
+
+Every OneMain Financial(R) personal loan comes with dedicated, local support from knowledgable loan specialists, along with:
+
+=> Fixed payments with clear terms
+=> Paperless billing statements
+=> Online account management
+
+Watch your mailbox in the coming days for more information and a personalized offer.
+
+Visit your branch to apply today and pick up your free gift(2). You can also call us at {CAR_Phone} TTY: 800-637-8878, or apply online today at:
+ldesc="apply online today - Primary" https://www.onemainfinancial.com/USCFA/CFA/la/Apply.do?jumpsource=A19&adplacementid=93003&priority=1
+
+Remember: we're always here when you need us with personalized service and flexible loan solutions that fit your needs.
+
+
+*********************
+
+ldesc="Apply Now - Primary" https://www.onemainfinancial.com/USCFA/CFA/la/Apply.do?jumpsource=A19&adplacementid=93003&priority=1
+
+Join us for Customer Appreciation Days
+
+November 17 - 29
+
+
+Your branch:
+
+{CAR_Address1}
+{CAR_City}, {CAR_State} {CAR_Zip}
+
+
+*********************
+
+1 No Payments until January 2015 applies to loans booked on or after November 17, 2014.  Offer void in Hawaii.Loan offers are subject to credit approval and other restrictions and requirements may apply. See below for Important Offer Details.
+
+2 Gifts available while supplies last.Gifts are of nominal value.Gift offers are void where prohibited.
+
+*********************
+
+You can choose to stop receiving "prescreened" offers of credit from this and other companies by calling toll-free 1-888-567-8688. See PRESCREEN & OPT-OUT NOTICE below.
+
+PRESCREEN & OPT-OUT NOTICE
+
+This "prescreened" offer of credit is based on information in your credit report indicating that you meet certain criteria. This offer is not guaranteed if you do not meet our criteria. If you do not want to receive prescreen offers of credit from this and other companies, you can call 1-888-567-8688 or write to the following consumer reporting agencies: Experian Inc., P.O. Box 919, Allen, TX 75013, TransUnion, TransUnion Name Removal Option, P.O. Box 505, Woodlyn, PA 19094, Equifax, P.O. Box 740123, Atlanta, GA 30374-0123.
+
+*********************
+
+Important Offer Details:
+
+OneMain Financial offers unsecured and secured personal loans from $300 to $15,000. Minimum and maximum loan amounts vary by state. You received this offer because you met certain criteria for creditworthiness. We may be unable to extend credit, if, after you respond to this offer, we determine that you no longer meet the criteria used to select you for this offer or any other criteria established prior to this offer. This offer is subject to verification of your credit bureau information, including FICO score and your ability to meet pre-established criteria that includes, but is not limited to: verification of income, a minimum income of $20,000, confirmation of identity, and no bankruptcy filings. In addition, to accept this offer, you must be at least 18 years of age (or the legal age of majority in your state) and not have opened any loan account with us in the last 75 days. A loan will only be made if you meet a demonstrated ability to pay and a benefit, as defined by our policy, is provided to you. 
+
+This offer is for new money up to the amount quoted in this offer and may be accepted only by the name of the person(s) identified in this offer. If you are approved for a loan, the actual loan amount and annual percentage rate you qualify for will depend on your ability to meet the pre-established criteria described above, including credit history, income and debts. Additional loan amounts and loan products are available to those who meet our standard credit criteria.
+
+If you are a current customer, we may require that any existing balance you have with us be paid off by the new loan and, if there is collateral on your existing account, we may require collateral on the new loan. Before you refinance your existing balance to obtain additonal money, you should carefully consider the advisability of increasing your debt, your monthly obligations, and the term of repayment. The overall cost of refinancing an existing loan balance may be greater than the cost of separate financing, if it is available.
+
+A consumer report is usually obtained and reviewed to verify, among other things, your identity. Upon request, you will be informed whether a consumer report was requested and of the name and address of the credit reporting agency furnishing any such report. Subsequent consumer reports may be requested and used in connection with an update, renewal or extension of credit.
+
+*********************
+
+ABOUT THIS MESSAGE
+
+Please do not reply to this email. For account specific inquiries, kindly call 1-877-550-6246 or visit
+ldesc="www.OneMainFinancial.com - Disclaimer" https://www.onemainfinancial.com/USCFA/CFA/portal/Home.do?jumpsource=Z19&adplacementid=93003&priority=1
+
+If you'd like to update your email preferences or would like to stop receiving promotional emails from OneMain Financial, 
+please visit: :: ldesc="click here opt-out - Disclaimer" https://loan.onemainfinancial.com/OMF/preferences/default.htm?jumpsource=A19&adplacementid=93003&priority=1
+
+OneMain Financial, Inc.
+6801 Colwell Blvd.
+Mail Stop NTSB-2320
+Irving, TX 75039
+
+*********************
+
+OneMainFinancial.com :: ldesc="OneMainFinancial.com - Footer" https://www.onemainfinancial.com/USCFA/CFA/portal/Home.do?jumpsource=A19&adplacementid=93003&priority=1
+State Licensing :: ldesc="State Licensing - Footer" https://www.onemainfinancial.com/USCFA/CFA/portal/SubPage.do?content_id=state_licensing&jumpsource=A19&adplacementid=93003&priority=1
+Privacy and Security :: ldesc="Privacy and Security - Footer" https://www.onemainfinancial.com/USCFA/CFA/portal/CustCopy.do?content_id=privacy&jumpsource=A19&adplacementid=93003&priority=1 
+Terms and Conditions :: ldesc="Terms and Conditions - Footer" http://www.citigroup.com/citi/privacy/terms.htm
